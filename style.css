@@ -1,0 +1,143 @@
+#wrapper{
+    background-color: white;
+    width: 1200px;
+    height: 579px;
+    padding-top: 5px;
+}
+
+#resumeWrapper{
+    background-color: white;
+    width: 1200px;
+    height: 2960px;
+    padding-top: 5px;
+}
+
+#headshot{
+    width:246px;
+    height: auto;
+    margin-left: 10px;
+    display: inline-block;
+    border: solid rgb(222,177,58);
+}
+
+#header{
+    color: rgb(221,116,77);
+    background-color: rgb(191,217,210);
+    margin: 10px;
+    margin-top: 10px;
+    height: 120px;
+    text-align: center;
+}
+
+#header h1{
+    display: inline-block;
+    color: rgb(27, 33, 58);
+    /*margin-left: 295px;*/
+    margin-bottom: 0px;
+}
+
+#header h3{
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 100;
+    width: 500px;
+    /*text-align: center;*/
+}
+
+#main_content{
+    background-color: rgb(221,116,77);
+    width: 918px;
+    height: 334px;
+    margin-left: 8px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#resumeClip{
+    width: 340px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.offerings{
+    background-color: rgb(255,220,209);
+    width: 432px;
+    height: 268px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 30px;
+    color: rgb(48,60,108);
+    vertical-align: top;
+    /*text-align: center;*/
+}
+
+.badge{
+    max-height: 50px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 3px;
+    background-color: rgb(255,220,209);
+    display: inline-block;
+}
+
+#learnMore{
+    margin-top: 20px;
+    margin-left: 119px;
+}
+
+.offerings h2{
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    text-align: center;
+    vertical-align: top;
+    color: rgb(48,60,108);
+}
+
+.bold{
+    font-weight: bold;
+}
+
+
+p{
+    font-size: small;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+.note{
+    color: rgb(163, 103, 76);
+    width: 190px;
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+.resumePage{
+    width: 1081px;
+    margin-left: 60px;
+    border: solid rgb(222,177,58);
+}
+
+#footer{
+    background-color: white;
+    height: 70px;
+    width: 1181px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#footer ul{
+    padding-top: 10px;
+}
+
+#footer li, #footer a{
+    color: rgb(48,60,108);
+    display: inline-block;
+    text-decoration: none;
+    padding: 9px;
+}
